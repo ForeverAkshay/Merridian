@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Merridian/static/css/main.e6c13ad2.css",
+    "main.js": "/Merridian/static/js/main.06d05f80.js",
+    "static/js/453.41a07b75.chunk.js": "/Merridian/static/js/453.41a07b75.chunk.js",
+    "index.html": "/Merridian/index.html",
+    "main.e6c13ad2.css.map": "/Merridian/static/css/main.e6c13ad2.css.map",
+    "main.06d05f80.js.map": "/Merridian/static/js/main.06d05f80.js.map",
+    "453.41a07b75.chunk.js.map": "/Merridian/static/js/453.41a07b75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.06d05f80.js"
+  ]
+}
